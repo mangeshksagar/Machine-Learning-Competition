@@ -1,5 +1,8 @@
 # Machine-Learning-Competition
-Competition is a great first challenge to get started. This repository contains different participated competition codes &amp; description.
+*Competition is a great first challenge to get started. This repository contains different participated competition codes &amp; description.
+* Competitive Data Science is not all about applying algorithms. An algorithm is essentially a tool and anybody can use it by writing just a few lines of code. 
+* The main takeaway from participating in these competitions is that they provide a great opportunity for learning. 
+* The real-life problems are not necessarily the same as the ones provided in the competitions, still, these platforms enable you to apply your knowledge to processes and see how you fare in comparison to others.
 
 ## Different Platforms For Machine Learning Competition
 * Kaggle
